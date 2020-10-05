@@ -5,5 +5,5 @@
 - I :heart:  open source, maybe one day I will have more time for it.
 - I love :art:, :guitar:, 💻  and taking care of my two 👶 's
 
-[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=radiovisual)](https://github.com/anuraghazra/github-readme-stats)
+[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=radiovisual&hide=contribs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
